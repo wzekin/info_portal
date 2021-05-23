@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "bupt scrapy",
+            "database": "${workspaceFolder:bupt_portal}/example.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
